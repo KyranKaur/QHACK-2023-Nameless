@@ -1,7 +1,6 @@
 <h1>The Quirky Qubits - QHack2023</h1>
 
 ![logo](QHack_2023_logo.PNG)
-![logo2](Xanandu logo.png)
 
 <h1>Team Members</h1>
 
